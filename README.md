@@ -1,2 +1,2 @@
 # sojna
-criando.
+Aprendendo e criando.
